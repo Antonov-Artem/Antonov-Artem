@@ -1,6 +1,6 @@
 <h1>Hi 👋</h1>
 
-<p>My name is Artem. I am a Front-End Developer from Odessa, Ukraine . Currently living in Toronto, Canada</p>
+<p>My name is Artem. I am a Front-End Developer from Odessa, Ukraine</p>
 
 <h1>Contact Me</h1>
 
